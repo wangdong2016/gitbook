@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [综合写作](chapter1.md)
 * 独立写作概述
 
